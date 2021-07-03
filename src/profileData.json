@@ -1,0 +1,104 @@
+{
+    "landing": {
+        "firstName": "Vanshika Singh",
+        "phoneNumber": "+91-7550167757",
+        "bio": "📌 Vanshika has rich expertise in leading, mentoring, and enabling delivery of solutions for application development. 📌 Co-author of IEEE paper and technology evangelist, she is the epitome of driving successful engagement with the tech community with 100+ projects delivered till date. 📌 She has been an active community mentor and has extensive experience in Technical Product support and solution engineer role, currently working at HackerEarth.",
+        "email": "vanshika220@gmail.com",
+        "linkedin": "https://www.linkedin.com/in/vanshika-singh-/",
+        "github": "https://github.com/Singh-Vanshika"
+    },
+    "experience": [
+        {
+            "position": "Technical Development Manager",
+            "organization": "HackerEarth",
+            "aboutWork": "📌 Technical product support engineer and consultant for 100+ clients 📌 Identify and address technical queries/irregularities in functionality and unexpected behaviors on APIs, plugins, and product performance 📌 Extensive experience in product management and analysis 📌 Built wireframes, POC, detailed PRDs, & workflows for 16+ features 📌 Work directly with multi-stakeholders like developers, clients, and internal teams on post-integration issues 📌 Make data-driven decisions and track key KPIs",
+            "fromDate": "Sept 2020",
+            "toDate": "Present"
+        },
+        {
+            "position": "Technical Subject Matter Expert",
+            "organization": "HackerEarth",
+            "aboutWork": "📌 Researcher : IoT, Cloud, Data Analytics 📌 Problem Setter for Fullstack Hiring Challenges and Hackathons",
+            "fromDate": "Dec 2019",
+            "toDate": "June 2019"
+        },
+        {
+            "position": "Project Intern - Computer Networking ",
+            "organization": "Steel Authority of India",
+            "aboutWork": "📌 Worked on project - “Networking in SAIL”, focusing on Computer Networking 📌 CS & IT Dept. of SAIL.",
+            "fromDate": "June 2019",
+            "toDate": "July 2019"
+        },{
+            "position": "Robotics Lead",
+            "organization": "Beeclust Multi-Robot Systems Lab",
+            "aboutWork": "📌 Submitted paper “SPRINTER: A Discrete Locomotion Robot for Precision Swarm Printing”, to IEEE ICRA, the flagship conference of IEEE Robotics and Automation Society. 📌 Built tracking algorithm for Multi-Robot Coordinative System 📌 Simulated on MATLAB",
+            "fromDate": "June 2018",
+            "toDate": "Mar 2020"
+        },
+        {
+            "position": "Project Intern - Electronics",
+            "organization": "Defence Research and Development Organisation (DRDO)",
+            "aboutWork": "📌 Worked on Project : Study of practical op-apms and designing of high-gain, high-speed band-limiting amplifier. 📌 Analog Communication Dept.",
+            "fromDate": "May 2018",
+            "toDate": "June 2018"
+        }
+        
+    ],
+    "education": [
+        {
+            "university": "SRM University",
+            "degree": "B.Tech | Electronics and Communication Engineering",
+            "gpa": "Secured 88% | First Class with Distinction",
+            "fromDate": "2016",
+            "toDate": "- 2020",
+            "location" : "Chennai, India"
+        },
+        {
+            "university": "DAV public School",
+            "degree": "12th Standard | CBSE ",
+            "gpa": "Secured 87%",
+            "fromDate": "2016",
+            "toDate": "",
+            "location" : "Delhi, India"
+        },
+        {
+            "university": "DAV Public School",
+            "degree": "10th Standard | CBSE",
+            "gpa": "CGPA : 9.2",
+            "fromDate": "2014",
+            "toDate": "",
+            "location" : "Delhi, India"
+        }  
+    ],
+
+    "skills": [
+        
+    ],
+
+    "interests": {
+        "paragraphOne": "👏 Vanshika has demonstrated the skill and ability to pull of heavy and cumbersome tasks with ease and finesse. She is very professional and hard working in all her dealings. I was happy to see her ability to take initiatives and involve the larger team for the same. The best part about her is that she is a very nice human being at heart as well, she has been very thoughtful and kind with her colleagues. Also, her sense of humour keeps us laughing all day long. 📌 - Zeeshan Ali (Senior SWE at Great Learning)",
+        "paragraphTwo": "👏 The way she approaches a problem makes her stand out from the crowd and also she’s a fast learner therefore she understands the situation quickly which lets her act accordingly. 📌 - Rajat Taneja (SWE at Honeywell)",
+        "paragraphThree": "👏 I worked with Vanshika at HackerEarth. She's one of the most reliable and extremely dedicated member in the team. In every project, she ensures to give her best by being open and excited to new learnings. I have closely worked with her in several projects. If you're looking for someone to take ownerships and works hard to exceed the expectations,  I would definitely recommend Vanshika 📌 - Ramya Kumar (CSM at HackerEarth)"
+    },
+
+    "awards": [
+        {
+            "awardDetail": "Annual Award (May'20) - Best Performing 'New Comer', by HackerEarth"
+        },
+        {
+            "awardDetail": "SPOT Award (JAS'20) - Excellent team support, by HackerEarth"
+        },
+        {
+            "awardDetail": "SPOT Award (JFM'21) - Award of Excellence, by HackerEarth"
+        },
+        {
+            "awardDetail": "Published International research paper: 'Self Navigation and Positioning Robot - SNAPBot' in IEEE Xplore, ICICT Feb-2020, Coimbatore"
+        },
+        {
+            "awardDetail": "HawkEye - Project Funded (2.5 lakh INR) by DS, Govt. of India"
+        },
+        {
+            "awardDetail": "Top Finalist of Siemens MakeIt Real Hackathon 2018, by Siemens IN"
+        }     
+    ]
+}
