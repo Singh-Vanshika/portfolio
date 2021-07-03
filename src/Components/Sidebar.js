@@ -35,10 +35,10 @@ class Sidebar extends Component {
               <a className="nav-link js-scroll-trigger" href="#skills">Skills 💯</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#awards">Achievements 🏆</a>
+              <a className="nav-link js-scroll-trigger" href="#achievements">Achievements 🏆</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link js-scroll-trigger" href="#interests">Testimonials 🌟 </a>
+              <a className="nav-link js-scroll-trigger" href="#testimonials">Testimonials 🌟</a>
             </li>
             <li className="nav-item">
               <a className="nav-link js-scroll-trigger" href="#resume">Resume 📜</a>

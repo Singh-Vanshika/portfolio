@@ -12,7 +12,7 @@ class Awards extends Component {
 
   render() {
     return(
-      <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="awards">
+      <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="achievements">
         <div className="w-100">
           <h2 className="mb-5">Awards &amp; Certifications</h2>
           <ul className="fa-ul mb-0">
