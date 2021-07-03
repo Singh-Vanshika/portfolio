@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.f416b600.chunk.js",
-    "main.js.map": "/static/js/main.f416b600.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.5a7750ca.js",
-    "runtime-main.js.map": "/static/js/runtime-main.5a7750ca.js.map",
-    "static/js/2.9c4c0123.chunk.js": "/static/js/2.9c4c0123.chunk.js",
-    "static/js/2.9c4c0123.chunk.js.map": "/static/js/2.9c4c0123.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.d1b1a1826181565f9501bee47cf1224e.js": "/precache-manifest.d1b1a1826181565f9501bee47cf1224e.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.9c4c0123.chunk.js.LICENSE.txt": "/static/js/2.9c4c0123.chunk.js.LICENSE.txt",
-    "static/media/IMG_1048.png": "/static/media/IMG_1048.15525654.png"
+    "main.css": "/react-deploy/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-deploy/static/js/main.827b3e3c.chunk.js",
+    "main.js.map": "/react-deploy/static/js/main.827b3e3c.chunk.js.map",
+    "runtime-main.js": "/react-deploy/static/js/runtime-main.3e11c617.js",
+    "runtime-main.js.map": "/react-deploy/static/js/runtime-main.3e11c617.js.map",
+    "static/js/2.9c4c0123.chunk.js": "/react-deploy/static/js/2.9c4c0123.chunk.js",
+    "static/js/2.9c4c0123.chunk.js.map": "/react-deploy/static/js/2.9c4c0123.chunk.js.map",
+    "index.html": "/react-deploy/index.html",
+    "precache-manifest.e577eeb469b361b68a94a7950b4db3a0.js": "/react-deploy/precache-manifest.e577eeb469b361b68a94a7950b4db3a0.js",
+    "service-worker.js": "/react-deploy/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-deploy/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.9c4c0123.chunk.js.LICENSE.txt": "/react-deploy/static/js/2.9c4c0123.chunk.js.LICENSE.txt",
+    "static/media/IMG_1048.png": "/react-deploy/static/media/IMG_1048.15525654.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5a7750ca.js",
+    "static/js/runtime-main.3e11c617.js",
     "static/js/2.9c4c0123.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.f416b600.chunk.js"
+    "static/js/main.827b3e3c.chunk.js"
   ]
 }
