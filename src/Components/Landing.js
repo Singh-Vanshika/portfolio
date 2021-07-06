@@ -16,7 +16,6 @@ class Landing extends Component {
           <a href="https://www.linkedin.com/in/vanshika-singh-/">{this.landingData.firstName}</a>
             &nbsp;
 
-            <span className="text-primary">{this.landingData.lastName}</span>
           </h1>
 
           <div className="subheading mb-5">{this.landingData.phoneNumber} · &nbsp;
